@@ -4,4 +4,5 @@
 
 ## GETTIN' FREAKY ON A FRIDAY NIGHT YEAH!
 Sync Engine is a quality of life engine developed for use on mods.
+
 Originally designed for the Monday in Mandela mod.
